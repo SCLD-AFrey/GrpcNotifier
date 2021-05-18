@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="40c4f945-f828-430f-9bf0-b63968f6d006" namespace="GrpcNotifier.Data" dataBaseShemaInfo="H4sIAAAAAAAEAO1aW2/iOhB+X2n/Q8RTK20IuUKqwGopbYW2p0W9rPZtZTsT6rPB4SQObc+vP05IQsKlpZRtD6I8tGQ845nP4xn7A5yvDyNfmkAY0YC1a2q9Ufva+fzJ6aIIrnkQoiH0mRdIQotFRw8RbdfuOB8fKcr9/X39Xq8H4VDRGg1V+fnX+TW5gxGSKYs4YgRqhZX7vFVNeJUk5wZhH6LEZfqcS0qCXCRdoBG0ayeMh4+1YkyMDkI6QuHjd3jMVAbff021pH50y+g/sZDxMIaylbA7Dvx4xKKKUIgjHlI27Fz2e46Sva+YKYt2jjKLoSxe5sHpdadiafrv5nEswuszrmu1LH7hOgldTJbFLR76LjBOeUlyEft+si7tmof8SIh63WSu6RSU8ZqkrOH4OkWYe+6zccxz0TX9V4jURqM6NZugkNyh8ECMHK7npIc43NARVNzMhOXZXSHlqXSdiavLNhaGNOKUnAfk9ykF391wUSrTnh1fAQnCTec6i6lbRBjSIWVJdstTxekWpWmCPQrhevN2g8AHxIoljRLQkESJe+Ch2Oc/kJ/s/IODxuFh1SOmvDa/7ctGkqj7I566EbV8hDNXnXSjOUpZda428lArxbGkYPrMhQdYqIxUnCGi+cL/Wij5lcWVDmRFm5svreLlYU0RpEE8Fdl6/WWNEFf1mJdE5yiLa+mcBiHQIRMdJCptJkdJG+lcX00wdVI82XgqKHROWGqTpT57KkZ7NEoEt+Okbov9UREWukkl9N1OI3vJS/7kL0fJlAvjbDkq58JKsRhIQGRbMV3l0nNF70l4SyAmeV6F8NUoS3nfBGipe+8R4Pwc2Q/ISw65/QA+a+f7gDa/KewH2vzysuNol0mzM/UFBGcguFnAnmU4mdoHxXkhxTmlYcSTt9skOFUX52j7HuYpVO+y+xriVA14cBcwuIhHOCEf24t5ZyjKDtDL17Ooxb6ysoDTgbegUes0sR3gUdl5ND10tkCRABs62CCOIU3HsmHqrox03ZQty8I2sZBu2v9jivQkxDLM97hqFO3/WbxLs/kauIZlauCKhBIgRDbAa8o20kEWiSYEq17DA7xtuPlR9PZo1SYQ1TCx7Nq2LhsaMWTbaJkyWLblYk/DgL1toxWH4tsD1YBoDcu0RJ26mmzYGMtYlKwMBAxddT1skK0DLR3Ybw+4pRK70VINWaRQoFbBFpm1kdjMBJqWaeo60d6NIWw/vaSlmS1Pk5tJazKaYMmYaKqsNU0Xm4aKzdYHyf8g+X+ACP4cXOK/gfDkVvgsHawof5DCFxKgfIKc/WimsYL9iJGNOOG3KIIR9h839bLx/T+f/QU7ZI0bdz7rH2EFW430vbnB7CuVMqyPr1p2nEfMCmAv4Jbb165DXud0zp5nKk7y4xhwB2FAUmFW8s6P6S9pOj2YnDyMQ4iieg9xVJ9ojbr6RcqG28lT3ao3vkjHsc/jENoMYh4i/4s0iLFPiWgjN8FvYG3carlq0zRccd8Eca12lNxF6u/YRyIVUZKBq7hYXeebK0IDjz4UrSgRXcdeRXQFo2AC84pT6bzuMYqgc8vEccSGyb07fZ4uzbIYxKUkGEPI6TvHtiIM5wwYhGJ7HQejkbhRRNnFcEFcUe5BJDo8hKdUbIU5i+pYapbfTLpwhyY0CDvZp5CiYOZHPn9ylLmfXHX+AxOLq8ObJQAA" generateConnectionHelper="true" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" connectionStringName="SampleDataConn" createdInVersion="20.1.6.0" generateJsonSerializationContractResolver="false" generateServiceCollectionExtensions="true" lastModifiedInVersion="20.1.6.0" name="SampleData" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+  <classes>
+    <dataBaseObjectModelHasClasses Id="07e52671-ab62-45c6-b3c9-d8e6b7864a86">
+      <xpObject Id="eb43e9e0-023b-453d-a335-666b9c6a3590" name="Person" baseClass="XPObject" userFileName="Person" designerFileName="Person.Designer" className="Person" initialName="Person" persistent="Person" virtualName="Person">
+        <fields>
+          <generalXpObjectHasFields Id="3629fe5e-1b36-4a3a-a1df-bf14a58e05e8">
+            <field Id="4652ed3b-cecc-4ef7-9a3e-9e0ccb1f0feb" name="FirstName" initialName="FirstName" persistent="FirstName" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="ec1de14a-b7c4-4772-ac15-3e10ec8f8a21">
+            <field Id="17ec145b-d993-42c4-9485-e696dbf2bebf" name="LastName" initialName="LastName" persistent="LastName" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="61a0ffd6-dada-4788-b8b2-95fc079c7f3a">
+            <field Id="2ec20656-45d2-49bb-b453-ece431dfb4cf" name="DOB" columnType="DateTime" initialName="DOB" persistent="DOB" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="a11446d1-aa20-40f4-a137-d5d87e2d1467">
+            <field Id="81c90814-beb6-41e9-949a-9ace765533c2" name="PhoneNumber" initialName="PhoneNumber" persistent="PhoneNumber" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="4a6930ab-cb88-46fd-bd34-13ff507bb54f">
+            <field Id="2c8258f2-7000-47e6-bc21-275db541b580" name="IsLocked" columnType="Boolean" initialName="IsLocked" persistent="IsLocked" virtualColumnType="Boolean" delayedUpdateModifiedOnly="false" defaultValue="Boolean#False" dbDefaultValue="((0))" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+  </classes>
+</dataBaseObjectModel>

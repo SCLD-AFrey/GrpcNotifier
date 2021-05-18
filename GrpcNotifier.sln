@@ -1,16 +1,23 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcNotifier.Common", "GrpcNotifier.Common\GrpcNotifier.Common.csproj", "{EE878242-A83B-4FEB-B0DE-CADA607CD217}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcNotifier.Common", "GrpcNotifier.Common\GrpcNotifier.Common.csproj", "{EE878242-A83B-4FEB-B0DE-CADA607CD217}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcNotifier.Server", "GrpcNotifier.Server\GrpcNotifier.Server.csproj", "{F88A37EB-55A1-46BA-9A5F-CC84FF2CC0DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcNotifier.Server", "GrpcNotifier.Server\GrpcNotifier.Server.csproj", "{F88A37EB-55A1-46BA-9A5F-CC84FF2CC0DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcNotifier.Server.Core", "GrpcNotifier.Server.Core\GrpcNotifier.Server.Core.csproj", "{4B210F5E-912E-43AA-AA1E-1A5B10C19297}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcNotifier.Server.Core", "GrpcNotifier.Server.Core\GrpcNotifier.Server.Core.csproj", "{4B210F5E-912E-43AA-AA1E-1A5B10C19297}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcNotifier.Client.Core", "GrpcNotifier.Client.Core\GrpcNotifier.Client.Core.csproj", "{D5973F8A-65CC-4ADF-A0FF-418912368669}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcNotifier.Client.Core", "GrpcNotifier.Client.Core\GrpcNotifier.Client.Core.csproj", "{D5973F8A-65CC-4ADF-A0FF-418912368669}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcNotifier.Client", "GrpcNotifier.Client\GrpcNotifier.Client.csproj", "{7F67E612-C8A2-4394-9E11-5AE747AF0536}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcNotifier.Client", "GrpcNotifier.Client\GrpcNotifier.Client.csproj", "{7F67E612-C8A2-4394-9E11-5AE747AF0536}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcNotifier.Client.Wpf", "GrpcNotifier.Client.Wpf\GrpcNotifier.Client.Wpf.csproj", "{D200F70C-02BA-4C1E-8768-91E4EB14EB83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrpcNotifier.Client.Wpf", "GrpcNotifier.Client.Wpf\GrpcNotifier.Client.Wpf.csproj", "{D200F70C-02BA-4C1E-8768-91E4EB14EB83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcNotifier.Client.WpfDx", "GrpcNotifier.Client.WpfDx\GrpcNotifier.Client.WpfDx.csproj", "{04B13C76-3C78-42AD-B6D7-F33DFB079F33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcNotifier.Data", "GrpcNotifier.Data\GrpcNotifier.Data.csproj", "{063525B6-3103-4CF9-8000-914E65041B65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -42,5 +49,19 @@ Global
 		{D200F70C-02BA-4C1E-8768-91E4EB14EB83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D200F70C-02BA-4C1E-8768-91E4EB14EB83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D200F70C-02BA-4C1E-8768-91E4EB14EB83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04B13C76-3C78-42AD-B6D7-F33DFB079F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B13C76-3C78-42AD-B6D7-F33DFB079F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B13C76-3C78-42AD-B6D7-F33DFB079F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B13C76-3C78-42AD-B6D7-F33DFB079F33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{063525B6-3103-4CF9-8000-914E65041B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{063525B6-3103-4CF9-8000-914E65041B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{063525B6-3103-4CF9-8000-914E65041B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{063525B6-3103-4CF9-8000-914E65041B65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BD36B92-1AF4-4AE5-877C-DB533462E39B}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,4 @@
+obj\Release\net5.0/Notifier.cs \
+obj\Release\net5.0/NotifierGrpc.cs: C:/Users/afrey.STEELCLOUD/.nuget/packages/grpc.tools/2.37.1/build/native/include/google/protobuf/timestamp.proto\
+ C:/Users/afrey.STEELCLOUD/.nuget/packages/grpc.tools/2.37.1/build/native/include/google/protobuf/empty.proto\
+ Notifier.proto
