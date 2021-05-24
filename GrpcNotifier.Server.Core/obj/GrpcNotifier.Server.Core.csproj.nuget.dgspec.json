@@ -94,91 +94,14 @@
         }
       }
     },
-    "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Server.Core\\GrpcNotifier.Server.Core.csproj": {
+    "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Server.Common\\GrpcNotifier.Server.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Server.Core\\GrpcNotifier.Server.Core.csproj",
-        "projectName": "GrpcNotifier.Server.Core",
-        "projectPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Server.Core\\GrpcNotifier.Server.Core.csproj",
+        "projectUniqueName": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Server.Common\\GrpcNotifier.Server.Common.csproj",
+        "projectName": "GrpcNotifier.Server.Common",
+        "projectPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Server.Common\\GrpcNotifier.Server.Common.csproj",
         "packagesPath": "C:\\Users\\afrey.STEELCLOUD\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Server.Core\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\DevExpress 20.2\\.NET Core Desktop Libraries\\Offline Packages",
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\afrey.STEELCLOUD\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress .NET Core Desktop 19.2.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress .NET Core Desktop 20.1.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress .NET Core Desktop 20.2.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\DevExpress 20.2\\.NET Core Desktop Libraries\\System\\Components\\Packages": {},
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.devexpress.com/89i4e4l4svNZAkJIVcRNOZ6TNcXFAMLWZ9kNtTNx15Cxtk142Q/api": {},
-          "https://nuget.pkg.github.com/SteelCloudLLC/index.json": {},
-          "https://repo.didisoft.com/repository/openssl/": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {
-              "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Common\\GrpcNotifier.Common.csproj": {
-                "projectPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Common\\GrpcNotifier.Common.csproj"
-              },
-              "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Server\\GrpcNotifier.Server.csproj": {
-                "projectPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Server\\GrpcNotifier.Server.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Server\\GrpcNotifier.Server.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Server\\GrpcNotifier.Server.csproj",
-        "projectName": "GrpcNotifier.Server",
-        "projectPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Server\\GrpcNotifier.Server.csproj",
-        "packagesPath": "C:\\Users\\afrey.STEELCLOUD\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Server\\obj\\",
+        "outputPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Server.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\.NET Core Desktop Libraries\\Offline Packages",
@@ -248,6 +171,83 @@
               "version": "[5.0.0, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Server.Core\\GrpcNotifier.Server.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Server.Core\\GrpcNotifier.Server.Core.csproj",
+        "projectName": "GrpcNotifier.Server.Core",
+        "projectPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Server.Core\\GrpcNotifier.Server.Core.csproj",
+        "packagesPath": "C:\\Users\\afrey.STEELCLOUD\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Server.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 20.2\\.NET Core Desktop Libraries\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\afrey.STEELCLOUD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress .NET Core Desktop 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress .NET Core Desktop 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress .NET Core Desktop 20.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.2\\.NET Core Desktop Libraries\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/89i4e4l4svNZAkJIVcRNOZ6TNcXFAMLWZ9kNtTNx15Cxtk142Q/api": {},
+          "https://nuget.pkg.github.com/SteelCloudLLC/index.json": {},
+          "https://repo.didisoft.com/repository/openssl/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Common\\GrpcNotifier.Common.csproj": {
+                "projectPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Common\\GrpcNotifier.Common.csproj"
+              },
+              "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Server.Common\\GrpcNotifier.Server.Common.csproj": {
+                "projectPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Server.Common\\GrpcNotifier.Server.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",

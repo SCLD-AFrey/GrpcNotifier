@@ -1,5 +1,6 @@
 ﻿using System;
-using GrpcNotifier.Server.Infrastructure;
+using GrpcNotifier.Server.Common;
+using GrpcNotifier.Server.Common.Infrastructure;
 
 namespace GrpcNotifier.Server.Core
 {

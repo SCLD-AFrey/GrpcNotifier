@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "12kdP4p6JHaZoRtihN48+OqtwR1of7ajqt1iDeZiIDzdwU79+lAHl8llM6nDQO8nhoM0YzPfCH0Z8UMtiiRKnA==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Client.Common\\GrpcNotifier.Client.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\afrey.STEELCLOUD\\.nuget\\packages\\google.protobuf\\3.17.0\\google.protobuf.3.17.0.nupkg.sha512",
+    "C:\\Users\\afrey.STEELCLOUD\\.nuget\\packages\\google.protobuf.tools\\3.17.0\\google.protobuf.tools.3.17.0.nupkg.sha512",
+    "C:\\Users\\afrey.STEELCLOUD\\.nuget\\packages\\grpc.core\\2.37.1\\grpc.core.2.37.1.nupkg.sha512",
+    "C:\\Users\\afrey.STEELCLOUD\\.nuget\\packages\\grpc.core.api\\2.37.1\\grpc.core.api.2.37.1.nupkg.sha512",
+    "C:\\Users\\afrey.STEELCLOUD\\.nuget\\packages\\system.interactive.async\\5.0.0\\system.interactive.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\afrey.STEELCLOUD\\.nuget\\packages\\system.linq.async\\5.0.0\\system.linq.async.5.0.0.nupkg.sha512",
+    "C:\\Users\\afrey.STEELCLOUD\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

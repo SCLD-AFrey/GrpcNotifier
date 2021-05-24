@@ -316,7 +316,7 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "GrpcNotifier.Client/1.0.0": {
+      "GrpcNotifier.Client.Common/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
@@ -326,10 +326,10 @@
           "System.Linq.Async": "5.0.0"
         },
         "compile": {
-          "bin/placeholder/GrpcNotifier.Client.dll": {}
+          "bin/placeholder/GrpcNotifier.Client.Common.dll": {}
         },
         "runtime": {
-          "bin/placeholder/GrpcNotifier.Client.dll": {}
+          "bin/placeholder/GrpcNotifier.Client.Common.dll": {}
         }
       },
       "GrpcNotifier.Client.Wpf/1.0.0": {
@@ -338,7 +338,7 @@
         "dependencies": {
           "Google.Protobuf": "3.17.0",
           "Grpc.Core": "2.37.1",
-          "GrpcNotifier.Client": "1.0.0",
+          "GrpcNotifier.Client.Common": "1.0.0",
           "GrpcNotifier.Common": "1.0.0",
           "Prism.Core": "8.0.0.1909",
           "System.Collections": "4.3.0",
@@ -1688,10 +1688,10 @@
         "version.txt"
       ]
     },
-    "GrpcNotifier.Client/1.0.0": {
+    "GrpcNotifier.Client.Common/1.0.0": {
       "type": "project",
-      "path": "../GrpcNotifier.Client/GrpcNotifier.Client.csproj",
-      "msbuildProject": "../GrpcNotifier.Client/GrpcNotifier.Client.csproj"
+      "path": "../GrpcNotifier.Client.Common/GrpcNotifier.Client.Common.csproj",
+      "msbuildProject": "../GrpcNotifier.Client.Common/GrpcNotifier.Client.Common.csproj"
     },
     "GrpcNotifier.Client.Wpf/1.0.0": {
       "type": "project",
@@ -1706,7 +1706,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0-windows7.0": [
-      "GrpcNotifier.Client >= 1.0.0",
+      "GrpcNotifier.Client.Common >= 1.0.0",
       "GrpcNotifier.Client.Wpf >= 1.0.0",
       "GrpcNotifier.Common >= 1.0.0",
       "Microsoft.Bcl.AsyncInterfaces >= 5.0.0",
@@ -1723,7 +1723,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Client.Core\\GrpcNotifier.Client.Core.csproj",
-      "projectName": "GrpcNotifier.Client.Core",
+      "projectName": "GrpcNotifier.Client.Console",
       "projectPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Client.Core\\GrpcNotifier.Client.Core.csproj",
       "packagesPath": "C:\\Users\\afrey.STEELCLOUD\\.nuget\\packages\\",
       "outputPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Client.Core\\obj\\",
@@ -1759,11 +1759,11 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
+            "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Client.Common\\GrpcNotifier.Client.Common.csproj": {
+              "projectPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Client.Common\\GrpcNotifier.Client.Common.csproj"
+            },
             "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Client.Wpf\\GrpcNotifier.Client.Wpf.csproj": {
               "projectPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Client.Wpf\\GrpcNotifier.Client.Wpf.csproj"
-            },
-            "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Client\\GrpcNotifier.Client.csproj": {
-              "projectPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Client\\GrpcNotifier.Client.csproj"
             },
             "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Common\\GrpcNotifier.Common.csproj": {
               "projectPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Common\\GrpcNotifier.Common.csproj"

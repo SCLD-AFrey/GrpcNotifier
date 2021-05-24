@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "61337bdLyY5yXNlo7NmVyXYirYQfu3izS3qKUDuPtGy9F6VG3+0P3HUmQEVN69kPoC6cnC9SEGw/T5dKgj6A6Q==",
+  "dgSpecHash": "LP+Q2qslweByosqRrMWulFs8833Hgr5dtJgmaGHP5K0w6RTWi3fcVPwgV4V4WLJsYH2e3lKIjQL8so93hFle6w==",
   "success": true,
   "projectFilePath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Client.Core\\GrpcNotifier.Client.Core.csproj",
   "expectedPackageFiles": [

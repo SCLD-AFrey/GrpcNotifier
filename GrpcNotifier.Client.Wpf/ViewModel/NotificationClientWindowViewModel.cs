@@ -8,6 +8,7 @@ using Google.Protobuf.WellKnownTypes;
 using GrpcNotifier.Common;
 using Prism.Commands;
 using Prism.Mvvm;
+using GrpcNotifier.Client.Common;
 
 namespace GrpcNotifier.Client.Wpf.ViewModel
 {

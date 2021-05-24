@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.ObjectModel;
 using System.ComponentModel.DataAnnotations;
+using System.Dynamic;
 using DevExpress.Mvvm.DataAnnotations;
 using DevExpress.Mvvm.POCO;
 using DevExpress.Xpo;
@@ -9,6 +10,8 @@ using DevExpress.XtraPrinting.Native;
 using Google.Protobuf.WellKnownTypes;
 using GrpcNotifier.Common;
 using GrpcNotifier.Data;
+using GrpcNotifier.Client.Common;
+using Newtonsoft.Json;
 
 
 namespace GrpcNotifier.Client.WpfDx.ViewModels
@@ -16,7 +19,6 @@ namespace GrpcNotifier.Client.WpfDx.ViewModels
     [MetadataType(typeof(MetaData))]
     public class MainViewModel
     {
-        public static ObservableCollection<string> LocalHistory { get; set; }
         public class MetaData : IMetadataProvider<MainViewModel>
         {
             void IMetadataProvider<MainViewModel>.BuildMetadata
@@ -73,7 +75,18 @@ namespace GrpcNotifier.Client.WpfDx.ViewModels
         
         public void OnUpdatePersonScriptCommand()
         {
+            unitOfWork.CommitChanges();
+
+            dynamic person = new ExpandoObject();
+            person.Oid = SelectedPerson.Oid;
+            person.FirstName = SelectedPerson.FirstName;
+            person.LastName = SelectedPerson.LastName;
+            person.DOB = SelectedPerson.DOB;
+            person.PhoneNumber = SelectedPerson.PhoneNumber;
+            person.IsLocked = SelectedPerson.IsLocked;
             
+            
+            WriteCommandExecute($"Person [{SelectedPerson.Oid}] has been Updated {JsonConvert.SerializeObject(person)}");
         }
         public void OnLockPersonScriptCommand()
         {
@@ -87,6 +100,7 @@ namespace GrpcNotifier.Client.WpfDx.ViewModels
         {
             IsRecordLocked = SelectedPerson.IsLocked;
         }
+
         
         #endregion
     }

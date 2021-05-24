@@ -7,6 +7,7 @@ using DevExpress.Xpo.DB;
 using Google.Protobuf.WellKnownTypes;
 using GrpcNotifier.Common;
 using GrpcNotifier.Data;
+using GrpcNotifier.Client.Common;
 
 
 namespace GrpcNotifier.Client.WpfDxAlt.ViewModels

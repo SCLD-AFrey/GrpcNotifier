@@ -10,6 +10,7 @@ using System.Windows;
 using System.Windows.Data;
 using Google.Protobuf.WellKnownTypes;
 using GrpcNotifier.Common;
+using GrpcNotifier.Client.Common;
 
 namespace GrpcNotifier.Client.WpfDx.ViewModels
 {
@@ -21,6 +22,8 @@ namespace GrpcNotifier.Client.WpfDx.ViewModels
             void IMetadataProvider<MainWindowViewModel>.BuildMetadata
                 (MetadataBuilder<MainWindowViewModel> p_builder)
             {
+
+                
             }
         }
 
@@ -61,6 +64,7 @@ namespace GrpcNotifier.Client.WpfDx.ViewModels
 
             Application.Current.Exit += (_, __) => cts.Cancel();
         }
+
         
         #endregion
     }

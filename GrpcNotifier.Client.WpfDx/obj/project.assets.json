@@ -2612,7 +2612,7 @@
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
       },
-      "GrpcNotifier.Client/1.0.0": {
+      "GrpcNotifier.Client.Common/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
@@ -2622,10 +2622,10 @@
           "System.Linq.Async": "5.0.0"
         },
         "compile": {
-          "bin/placeholder/GrpcNotifier.Client.dll": {}
+          "bin/placeholder/GrpcNotifier.Client.Common.dll": {}
         },
         "runtime": {
-          "bin/placeholder/GrpcNotifier.Client.dll": {}
+          "bin/placeholder/GrpcNotifier.Client.Common.dll": {}
         }
       },
       "GrpcNotifier.Common/1.0.0": {
@@ -7793,10 +7793,10 @@
         "system.xml.xmldocument.nuspec"
       ]
     },
-    "GrpcNotifier.Client/1.0.0": {
+    "GrpcNotifier.Client.Common/1.0.0": {
       "type": "project",
-      "path": "../GrpcNotifier.Client/GrpcNotifier.Client.csproj",
-      "msbuildProject": "../GrpcNotifier.Client/GrpcNotifier.Client.csproj"
+      "path": "../GrpcNotifier.Client.Common/GrpcNotifier.Client.Common.csproj",
+      "msbuildProject": "../GrpcNotifier.Client.Common/GrpcNotifier.Client.Common.csproj"
     },
     "GrpcNotifier.Common/1.0.0": {
       "type": "project",
@@ -7815,7 +7815,7 @@
       "Google.Protobuf >= 3.17.0",
       "Grpc.Core >= 2.37.1",
       "Grpc.Tools >= 2.37.1",
-      "GrpcNotifier.Client >= 1.0.0",
+      "GrpcNotifier.Client.Common >= 1.0.0",
       "GrpcNotifier.Common >= 1.0.0",
       "GrpcNotifier.Data >= 1.0.0"
     ]
@@ -7866,8 +7866,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Client\\GrpcNotifier.Client.csproj": {
-              "projectPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Client\\GrpcNotifier.Client.csproj"
+            "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Client.Common\\GrpcNotifier.Client.Common.csproj": {
+              "projectPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Client.Common\\GrpcNotifier.Client.Common.csproj"
             },
             "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Common\\GrpcNotifier.Common.csproj": {
               "projectPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Common\\GrpcNotifier.Common.csproj"

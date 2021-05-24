@@ -10,6 +10,7 @@ using System.Windows;
 using System.Windows.Data;
 using Google.Protobuf.WellKnownTypes;
 using GrpcNotifier.Common;
+using GrpcNotifier.Client.Common;
 
 namespace GrpcNotifier.Client.WpfDxAlt.ViewModels
 {

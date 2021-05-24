@@ -16,9 +16,7 @@ D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client.Wpf\bin\Debug\net5.0-wi
 D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client.Wpf\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
 D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client.Wpf\bin\Debug\net5.0-windows\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
 D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client.Wpf\bin\Debug\net5.0-windows\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
-D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client.Wpf\bin\Debug\net5.0-windows\GrpcNotifier.Client.dll
 D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client.Wpf\bin\Debug\net5.0-windows\GrpcNotifier.Common.dll
-D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client.Wpf\bin\Debug\net5.0-windows\GrpcNotifier.Client.pdb
 D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client.Wpf\bin\Debug\net5.0-windows\GrpcNotifier.Common.pdb
 D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client.Wpf\obj\Debug\net5.0-windows\GrpcNotifier.Client.Wpf.csprojAssemblyReference.cache
 D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client.Wpf\obj\Debug\net5.0-windows\View\NotificationClientWindow.baml
@@ -35,3 +33,5 @@ D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client.Wpf\obj\Debug\net5.0-wi
 D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client.Wpf\obj\Debug\net5.0-windows\ref\GrpcNotifier.Client.Wpf.dll
 D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client.Wpf\obj\Debug\net5.0-windows\GrpcNotifier.Client.Wpf.pdb
 D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client.Wpf\obj\Debug\net5.0-windows\GrpcNotifier.Client.Wpf.genruntimeconfig.cache
+D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client.Wpf\bin\Debug\net5.0-windows\GrpcNotifier.Client.Common.dll
+D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client.Wpf\bin\Debug\net5.0-windows\GrpcNotifier.Client.Common.pdb

@@ -7,7 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\GrpcNotifier.Client\GrpcNotifier.Client.csproj" />
+      <ProjectReference Include="..\GrpcNotifier.Client.Common\GrpcNotifier.Client.Common.csproj" />
       <ProjectReference Include="..\GrpcNotifier.Common\GrpcNotifier.Common.csproj" />
     </ItemGroup>
 
@@ -52,6 +52,11 @@
         <PackageReference Include="System.Threading.Tasks.Extensions">
             <Version>4.5.4</Version>
         </PackageReference>
+    </ItemGroup>
+
+
+    <ItemGroup>
+      <Folder Include="Registry" />
     </ItemGroup>
 
 </Project>

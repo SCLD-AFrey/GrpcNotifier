@@ -17,9 +17,7 @@ D:\Development\Personal\GrpcNotifier\GrpcNotifier.Server.Core\bin\Debug\net5.0\r
 D:\Development\Personal\GrpcNotifier\GrpcNotifier.Server.Core\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
 D:\Development\Personal\GrpcNotifier\GrpcNotifier.Server.Core\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
 D:\Development\Personal\GrpcNotifier\GrpcNotifier.Server.Core\bin\Debug\net5.0\GrpcNotifier.Common.dll
-D:\Development\Personal\GrpcNotifier\GrpcNotifier.Server.Core\bin\Debug\net5.0\GrpcNotifier.Server.dll
 D:\Development\Personal\GrpcNotifier\GrpcNotifier.Server.Core\bin\Debug\net5.0\GrpcNotifier.Common.pdb
-D:\Development\Personal\GrpcNotifier\GrpcNotifier.Server.Core\bin\Debug\net5.0\GrpcNotifier.Server.pdb
 D:\Development\Personal\GrpcNotifier\GrpcNotifier.Server.Core\obj\Debug\net5.0\GrpcNotifier.Server.Core.csprojAssemblyReference.cache
 D:\Development\Personal\GrpcNotifier\GrpcNotifier.Server.Core\obj\Debug\net5.0\GrpcNotifier.Server.Core.GeneratedMSBuildEditorConfig.editorconfig
 D:\Development\Personal\GrpcNotifier\GrpcNotifier.Server.Core\obj\Debug\net5.0\GrpcNotifier.Server.Core.AssemblyInfoInputs.cache
@@ -30,3 +28,5 @@ D:\Development\Personal\GrpcNotifier\GrpcNotifier.Server.Core\obj\Debug\net5.0\G
 D:\Development\Personal\GrpcNotifier\GrpcNotifier.Server.Core\obj\Debug\net5.0\ref\GrpcNotifier.Server.Core.dll
 D:\Development\Personal\GrpcNotifier\GrpcNotifier.Server.Core\obj\Debug\net5.0\GrpcNotifier.Server.Core.pdb
 D:\Development\Personal\GrpcNotifier\GrpcNotifier.Server.Core\obj\Debug\net5.0\GrpcNotifier.Server.Core.genruntimeconfig.cache
+D:\Development\Personal\GrpcNotifier\GrpcNotifier.Server.Core\bin\Debug\net5.0\GrpcNotifier.Server.Common.dll
+D:\Development\Personal\GrpcNotifier\GrpcNotifier.Server.Core\bin\Debug\net5.0\GrpcNotifier.Server.Common.pdb

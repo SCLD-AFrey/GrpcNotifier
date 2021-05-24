@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iljYHtTHU+fKNspvJqXFwqT5fcc+d/BnfKL4fHQljFRbQDnXR9kJg4nuIpUIsSZbf9r7cT9TcCTKwbqFzfJTPA==",
+  "dgSpecHash": "XITcWljevL6pB5FiErDnVAbNnXHvWojY+Qc3I/oRH8WJ4hi7I+bZgbdOyevQ5um2aJ1i/ilcnynHROTAhZApLQ==",
   "success": true,
   "projectFilePath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Client.Wpf\\GrpcNotifier.Client.Wpf.csproj",
   "expectedPackageFiles": [

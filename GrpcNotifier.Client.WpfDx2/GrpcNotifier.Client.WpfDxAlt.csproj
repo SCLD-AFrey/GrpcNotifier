@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
@@ -17,7 +17,7 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\GrpcNotifier.Client\GrpcNotifier.Client.csproj" />
+    <ProjectReference Include="..\GrpcNotifier.Client.Common\GrpcNotifier.Client.Common.csproj" />
     <ProjectReference Include="..\GrpcNotifier.Common\GrpcNotifier.Common.csproj" />
     <ProjectReference Include="..\GrpcNotifier.Data\GrpcNotifier.Data.csproj" />
   </ItemGroup>
