@@ -10,68 +10,8 @@
     <projectFile>GrpcNotifier.Client.WpfDx2/GrpcNotifier.Client.WpfDxAlt.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6553a909-da0f-44b8-9753-66ce0ac522d1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GrpcNotifier/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GrpcNotifier/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.Core/obj/Debug/net5.0-windows/GrpcNotifier.Client.Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.Core/obj/Debug/net5.0-windows/GrpcNotifier.Client.Core.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.Core/obj/GrpcNotifier.Client.Core.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.Core/obj/GrpcNotifier.Client.Core.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.Core/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.Core/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.Core/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.Core/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.Core/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.Core/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.Core/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.Core/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.Wpf/obj/Debug/net5.0-windows/GrpcNotifier.Client.Wpf.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.Wpf/obj/Debug/net5.0-windows/GrpcNotifier.Client.Wpf.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.Wpf/obj/Debug/net5.0-windows/GrpcNotifier.Client.Wpf.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.Wpf/obj/Debug/net5.0-windows/GrpcNotifier.Client.Wpf.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.Wpf/obj/GrpcNotifier.Client.Wpf.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.Wpf/obj/GrpcNotifier.Client.Wpf.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.Wpf/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.Wpf/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.Wpf/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.Wpf/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.Wpf/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.Wpf/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.Wpf/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.Wpf/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.WpfDx/Grpc/NotificationService.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.WpfDx/MainWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.WpfDx/MainWindow.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.WpfDx/ViewModels/MainViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.WpfDx/ViewModels/MainViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.WpfDx/ViewModels/MainWindowViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.WpfDx/ViewModels/MainWindowViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.WpfDx/obj/Debug/net5.0-windows/GrpcNotifier.Client.WpfDx.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.WpfDx/obj/Debug/net5.0-windows/GrpcNotifier.Client.WpfDx.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.WpfDx/obj/Debug/net5.0-windows/GrpcNotifier.Client.WpfDx.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.WpfDx/obj/Debug/net5.0-windows/GrpcNotifier.Client.WpfDx.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.WpfDx/obj/GrpcNotifier.Client.WpfDx.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.WpfDx/obj/GrpcNotifier.Client.WpfDx.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.WpfDx/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.WpfDx/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.WpfDx/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.WpfDx/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.WpfDx/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.WpfDx/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client.WpfDx/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client.WpfDx/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client/obj/Debug/net5.0/GrpcNotifier.Client.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client/obj/Debug/net5.0/GrpcNotifier.Client.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client/obj/Debug/net5.0/GrpcNotifier.Client.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client/obj/Debug/net5.0/GrpcNotifier.Client.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client/obj/GrpcNotifier.Client.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client/obj/GrpcNotifier.Client.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Client/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Client/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Common/obj/Debug/net5.0/GrpcNotifier.Common.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Common/obj/Debug/net5.0/GrpcNotifier.Common.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Common/obj/Debug/net5.0/GrpcNotifier.Common.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Common/obj/Debug/net5.0/GrpcNotifier.Common.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Common/obj/GrpcNotifier.Common.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Common/obj/GrpcNotifier.Common.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Common/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Common/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Common/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Common/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Common/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Common/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Common/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Common/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Data/obj/Debug/net5.0/GrpcNotifier.Data.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Data/obj/Debug/net5.0/GrpcNotifier.Data.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Data/obj/Debug/net5.0/GrpcNotifier.Data.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Data/obj/Debug/net5.0/GrpcNotifier.Data.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Data/obj/GrpcNotifier.Data.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Data/obj/GrpcNotifier.Data.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Data/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Data/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Data/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Data/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Data/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Data/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Data/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Data/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Server.Core/obj/Debug/net5.0/GrpcNotifier.Server.Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Server.Core/obj/Debug/net5.0/GrpcNotifier.Server.Core.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Server.Core/obj/Debug/net5.0/GrpcNotifier.Server.Core.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Server.Core/obj/Debug/net5.0/GrpcNotifier.Server.Core.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Server.Core/obj/GrpcNotifier.Server.Core.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Server.Core/obj/GrpcNotifier.Server.Core.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Server.Core/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Server.Core/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Server.Core/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Server.Core/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Server.Core/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Server.Core/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Server.Core/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Server.Core/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Server/obj/Debug/net5.0/GrpcNotifier.Server.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Server/obj/Debug/net5.0/GrpcNotifier.Server.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Server/obj/Debug/net5.0/GrpcNotifier.Server.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Server/obj/Debug/net5.0/GrpcNotifier.Server.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Server/obj/GrpcNotifier.Server.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Server/obj/GrpcNotifier.Server.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Server/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Server/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Server/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Server/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Server/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Server/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.Server/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.Server/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GrpcNotifier.sln" beforeDir="false" afterPath="$PROJECT_DIR$/GrpcNotifier.sln" afterDir="false" />
+    <list default="true" id="6553a909-da0f-44b8-9753-66ce0ac522d1" name="Default Changelist" comment="Working with second client">
+      <change afterPath="$PROJECT_DIR$/GrpcNotifier.Client.WpfDx2/MainWindow.xaml.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -300,8 +240,16 @@
       <workItem from="1621539342410" duration="4746000" />
       <workItem from="1621610466696" duration="2677000" />
       <workItem from="1621614635889" duration="5540000" />
-      <workItem from="1621870159705" duration="2528000" />
+      <workItem from="1621870159705" duration="2955000" />
     </task>
+    <task id="LOCAL-00001" summary="Working with second client">
+      <created>1621877427980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621877427980</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,24 +271,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/GrpcNotifier.Client.WpfDx/ViewModels/MainWindowViewModel.cs</url>
-          <line>61</line>
-          <properties documentPath="D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client.WpfDx\ViewModels\MainWindowViewModel.cs" initialLine="61" containingFunctionPresentation="method 'StartReadingNotificationServer'">
-            <startOffsets>
-              <option value="1916" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1965" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Working with second client" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working with second client" />
   </component>
 </project>
