@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F17xO79iGnTKP0EJrUCanDWvNWxGVm0qrT+hAPTMMyus+q8Bdt0sVHsPqLi536t0tBi9OqnOvBnKdr4F5y9n/Q==",
+  "dgSpecHash": "mokRZm5J12zp9z2l1f7y323DXGbiP5T3t50Zmdqs41dEY4dadectGM8KA0llPvXCn36FbNke96rgv7SHOrx5mA==",
   "success": true,
-  "projectFilePath": "D:\\Development\\SCLD-AFrey\\GrpcNotifier\\GrpcNotifier.Client.WpfDx\\GrpcNotifier.Client.WpfDx.csproj",
+  "projectFilePath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Client.WpfDx\\GrpcNotifier.Client.WpfDx.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\afrey.STEELCLOUD\\.nuget\\packages\\devexpress.data\\20.2.7\\devexpress.data.20.2.7.nupkg.sha512",
     "C:\\Program Files (x86)\\DevExpress 20.2\\.NET Core Desktop Libraries\\Offline Packages\\devexpress.windowsdesktop.charts\\20.2.7\\devexpress.windowsdesktop.charts.20.2.7.nupkg.sha512",

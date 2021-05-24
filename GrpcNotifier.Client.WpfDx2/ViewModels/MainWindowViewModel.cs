@@ -11,7 +11,7 @@ using System.Windows.Data;
 using Google.Protobuf.WellKnownTypes;
 using GrpcNotifier.Common;
 
-namespace GrpcNotifier.Client.WpfDx.ViewModels
+namespace GrpcNotifier.Client.WpfDxAlt.ViewModels
 {
     [MetadataType(typeof(MetaData))]
     public class MainWindowViewModel

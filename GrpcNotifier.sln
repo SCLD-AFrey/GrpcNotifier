@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcNotifier.Client.WpfDx",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcNotifier.Data", "GrpcNotifier.Data\GrpcNotifier.Data.csproj", "{063525B6-3103-4CF9-8000-914E65041B65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcNotifier.Client.WpfDxAlt", "GrpcNotifier.Client.WpfDx2\GrpcNotifier.Client.WpfDxAlt.csproj", "{9CDE7045-883C-4D3E-B4BB-F5FFBA3135D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{063525B6-3103-4CF9-8000-914E65041B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{063525B6-3103-4CF9-8000-914E65041B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{063525B6-3103-4CF9-8000-914E65041B65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CDE7045-883C-4D3E-B4BB-F5FFBA3135D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CDE7045-883C-4D3E-B4BB-F5FFBA3135D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CDE7045-883C-4D3E-B4BB-F5FFBA3135D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CDE7045-883C-4D3E-B4BB-F5FFBA3135D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

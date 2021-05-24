@@ -1,22 +1,19 @@
 ﻿using System;
-using System.Collections.ObjectModel;
 using System.ComponentModel.DataAnnotations;
 using DevExpress.Mvvm.DataAnnotations;
 using DevExpress.Mvvm.POCO;
 using DevExpress.Xpo;
 using DevExpress.Xpo.DB;
-using DevExpress.XtraPrinting.Native;
 using Google.Protobuf.WellKnownTypes;
 using GrpcNotifier.Common;
 using GrpcNotifier.Data;
 
 
-namespace GrpcNotifier.Client.WpfDx.ViewModels
+namespace GrpcNotifier.Client.WpfDxAlt.ViewModels
 {
     [MetadataType(typeof(MetaData))]
     public class MainViewModel
     {
-        public static ObservableCollection<string> LocalHistory { get; set; }
         public class MetaData : IMetadataProvider<MainViewModel>
         {
             void IMetadataProvider<MainViewModel>.BuildMetadata

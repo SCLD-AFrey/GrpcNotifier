@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SNXDAM9UyfR11gCryXE+HnQgBnwjiS9pnOV9bqlEaHWHKYYZG0ejOdeB3I4Ur2pI4s/sQg5/P1ucj6IZG4sv6w==",
+  "dgSpecHash": "8j2yp/Zax36XEa5kIWg1j7OPiahO1gVUeO35eAFytJBRzVOZJQWtBQ9ngZGpOJpF+4/Oz1hY4EwBCNBzYFAeVw==",
   "success": true,
-  "projectFilePath": "D:\\Development\\SCLD-AFrey\\GrpcNotifier\\GrpcNotifier.Common\\GrpcNotifier.Common.csproj",
+  "projectFilePath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Common\\GrpcNotifier.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\afrey.STEELCLOUD\\.nuget\\packages\\google.protobuf\\3.17.0\\google.protobuf.3.17.0.nupkg.sha512",
     "C:\\Users\\afrey.STEELCLOUD\\.nuget\\packages\\google.protobuf.tools\\3.17.0\\google.protobuf.tools.3.17.0.nupkg.sha512",

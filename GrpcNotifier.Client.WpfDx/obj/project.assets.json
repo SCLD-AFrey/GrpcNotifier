@@ -7829,11 +7829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\SCLD-AFrey\\GrpcNotifier\\GrpcNotifier.Client.WpfDx\\GrpcNotifier.Client.WpfDx.csproj",
+      "projectUniqueName": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Client.WpfDx\\GrpcNotifier.Client.WpfDx.csproj",
       "projectName": "GrpcNotifier.Client.WpfDx",
-      "projectPath": "D:\\Development\\SCLD-AFrey\\GrpcNotifier\\GrpcNotifier.Client.WpfDx\\GrpcNotifier.Client.WpfDx.csproj",
+      "projectPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Client.WpfDx\\GrpcNotifier.Client.WpfDx.csproj",
       "packagesPath": "C:\\Users\\afrey.STEELCLOUD\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\SCLD-AFrey\\GrpcNotifier\\GrpcNotifier.Client.WpfDx\\obj\\",
+      "outputPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Client.WpfDx\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 20.2\\.NET Core Desktop Libraries\\Offline Packages",
@@ -7866,14 +7866,14 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "D:\\Development\\SCLD-AFrey\\GrpcNotifier\\GrpcNotifier.Client\\GrpcNotifier.Client.csproj": {
-              "projectPath": "D:\\Development\\SCLD-AFrey\\GrpcNotifier\\GrpcNotifier.Client\\GrpcNotifier.Client.csproj"
+            "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Client\\GrpcNotifier.Client.csproj": {
+              "projectPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Client\\GrpcNotifier.Client.csproj"
             },
-            "D:\\Development\\SCLD-AFrey\\GrpcNotifier\\GrpcNotifier.Common\\GrpcNotifier.Common.csproj": {
-              "projectPath": "D:\\Development\\SCLD-AFrey\\GrpcNotifier\\GrpcNotifier.Common\\GrpcNotifier.Common.csproj"
+            "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Common\\GrpcNotifier.Common.csproj": {
+              "projectPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Common\\GrpcNotifier.Common.csproj"
             },
-            "D:\\Development\\SCLD-AFrey\\GrpcNotifier\\GrpcNotifier.Data\\GrpcNotifier.Data.csproj": {
-              "projectPath": "D:\\Development\\SCLD-AFrey\\GrpcNotifier\\GrpcNotifier.Data\\GrpcNotifier.Data.csproj"
+            "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Data\\GrpcNotifier.Data.csproj": {
+              "projectPath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Data\\GrpcNotifier.Data.csproj"
             }
           }
         }

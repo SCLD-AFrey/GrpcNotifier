@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PLJjv3oshwzxBCKzyN4JOsc7GYWaIj+PxVB2hbZCVTTkw1CHr75rRS65Kfp/SLvcfdAdncgeqpfjua/+xRjDJg==",
+  "dgSpecHash": "bwFmJH9PjSyBXEL7vFT6esBGPcOSA/v9rZ9pmf3uYXvdx2pjLtTb4ok0tbSQHJtK/TEiyJsXhxcNoeneX11x0g==",
   "success": true,
-  "projectFilePath": "D:\\Development\\SCLD-AFrey\\GrpcNotifier\\GrpcNotifier.Data\\GrpcNotifier.Data.csproj",
+  "projectFilePath": "D:\\Development\\Personal\\GrpcNotifier\\GrpcNotifier.Data\\GrpcNotifier.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\afrey.STEELCLOUD\\.nuget\\packages\\devexpress.data\\20.2.7\\devexpress.data.20.2.7.nupkg.sha512",
     "C:\\Users\\afrey.STEELCLOUD\\.nuget\\packages\\devexpress.xpo\\20.2.7\\devexpress.xpo.20.2.7.nupkg.sha512",

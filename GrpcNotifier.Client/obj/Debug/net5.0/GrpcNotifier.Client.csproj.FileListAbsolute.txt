@@ -1,0 +1,15 @@
+D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client\bin\Debug\net5.0\GrpcNotifier.Client.deps.json
+D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client\bin\Debug\net5.0\GrpcNotifier.Client.dll
+D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client\bin\Debug\net5.0\ref\GrpcNotifier.Client.dll
+D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client\bin\Debug\net5.0\GrpcNotifier.Client.pdb
+D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client\bin\Debug\net5.0\GrpcNotifier.Common.dll
+D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client\bin\Debug\net5.0\GrpcNotifier.Common.pdb
+D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client\obj\Debug\net5.0\GrpcNotifier.Client.csprojAssemblyReference.cache
+D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client\obj\Debug\net5.0\GrpcNotifier.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client\obj\Debug\net5.0\GrpcNotifier.Client.AssemblyInfoInputs.cache
+D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client\obj\Debug\net5.0\GrpcNotifier.Client.AssemblyInfo.cs
+D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client\obj\Debug\net5.0\GrpcNotifier.Client.csproj.CoreCompileInputs.cache
+D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client\obj\Debug\net5.0\GrpcNotifier.Client.csproj.CopyComplete
+D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client\obj\Debug\net5.0\GrpcNotifier.Client.dll
+D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client\obj\Debug\net5.0\ref\GrpcNotifier.Client.dll
+D:\Development\Personal\GrpcNotifier\GrpcNotifier.Client\obj\Debug\net5.0\GrpcNotifier.Client.pdb
